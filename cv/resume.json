@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Simone Bourgault-Côté",
+    "label": "Intégratrice et designer Web",
+    "picture": "",
+    "email": "simoneBCBG@gmail.com",
+    "phone": "(581) 555-4321",
+    "website": "https://www.behance.net/simone_bc",
+    "summary": "À la fois passionnée, dévouée et créative, je prends à coeur le besoin du client et m'intéresse autant à l'efficacité de l'organisation visuelle d'une interface qu'à ses qualités pour rendre agréable l'expérience des utilisateurs.",
+    "location": {
+      "address": "22 rue des franciscains",
+      "postalCode": "H1R 2L3",
+      "city": "Québec",
+      "countryCode": "Canada",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "@simone_bc",
+        "url": ""
+      },
+      {
+        "network": "Pinterest",
+        "username": "https://www.pinterest.ca/simonebcbg",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Brûlerie St-Roch",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+        "Préparer les différentes sortes de café dans les règles de l'art"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cégep de Sainte-Foy",
+      "area": "Techniques d'intégration multimédia - Web et Apps",
+      "studyType": "DEC",
+      "startDate": "2017-08-22",
+      "endDate": "2019-05-28",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "1er prix au concours d'affiches",
+      "date": "2016-04-10",
+      "awarder": "Cégeps en spectacles",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Intégration Web",
+      "level": "intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Traitement et optimisation des médias",
+      "level": "master",
+      "keywords": [
+        "audio",
+        "vectoriel et bitmap",
+        "vidéo"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cinéma",
+      "keywords": []
+    },
+    {
+      "name": "Littérature",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Motion Design",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": "Disponibles sur demande"
+    }
+  ]
+}
